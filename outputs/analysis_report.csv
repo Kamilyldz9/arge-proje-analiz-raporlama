@@ -1,0 +1,6 @@
+project_id,project_name,planned_budget,actual_budget,planned_progress,actual_progress,planned_end_date,forecast_end_date,budget_difference,budget_variance_pct,progress_difference_pp,delay_days,over_budget,behind_schedule_progress,forecast_delayed
+AR001,Gunes Enerjisi Veri Izleme,500000,525000,80,72,2026-12-15,2027-01-10,25000,5.0,-8,26,True,True,True
+AR002,Batarya Sicaklik Takibi,320000,305000,65,70,2026-11-30,2026-11-25,-15000,-4.69,5,-5,False,False,False
+AR003,Akilli Sensor Dugumu,450000,490000,90,84,2026-10-31,2026-11-20,40000,8.89,-6,20,True,True,True
+AR004,Motor Verimlilik Testi,275000,275000,55,55,2027-01-15,2027-01-15,0,0.0,0,0,False,False,False
+AR005,Uzaktan Enerji Olcumu,600000,640000,75,60,2026-12-20,2027-02-05,40000,6.67,-15,47,True,True,True
